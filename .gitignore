@@ -1,0 +1,8 @@
+.vs/
+*.user
+*.suo
+*.shellbuffer
+[Bb]in/
+[Obj]/
+*.tmp
+*.log
