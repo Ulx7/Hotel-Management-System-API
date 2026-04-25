@@ -1,4 +1,4 @@
-### Hotel Management System
+# Hotel Management System
 
 This project was developed as a mandatory assignment for the **Programming 3** course within the Information Technology Analyst program at **Universidad ORT Uruguay**. 
 
